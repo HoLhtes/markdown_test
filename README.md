@@ -2,4 +2,4 @@
 ## medium header
 ### small header
 
-[lint] (https://www.naver.com)
+[lint](https://www.naver.com)
